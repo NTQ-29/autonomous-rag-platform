@@ -1,4 +1,4 @@
-### **autonomous-rag-platform
+##### **autonomous-rag-platform
 
 ### Autonomous Cloud-Native RAG Platform
 
